@@ -1,0 +1,11 @@
+.link {
+    color: var(--preto);
+    font-size: 28px;
+    font-weight: 700;
+    padding: 1em;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: var(--branco);
+}

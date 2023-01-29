@@ -1,0 +1,13 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 20em;
+    background-color: var(--azul);
+}
+
+.cabecalho__social a {
+    margin: 0 1em;
+    transform: scale(1.2);
+}
+

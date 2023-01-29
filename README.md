@@ -11,7 +11,7 @@
 :rocket: Favoritar ou desfavoritar filmes e videos que onde todos os videos vem de uma API fake.
 
 # Acesso ao Projeto
-https://bank-page-peach.vercel.app/
+https://nktag-react-i64j.vercel.app/
 
 # Site para criar API fake
 https://my-json-server.typicode.com/
